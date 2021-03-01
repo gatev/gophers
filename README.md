@@ -1,1 +1,3 @@
 # gophers
+
+go run . {port}
